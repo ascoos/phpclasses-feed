@@ -1,6 +1,15 @@
 # How to use the package.
 
+This package can display the latest package from PHPClasses.
+
+Creates a formatted table in frame style, showing the latest packages published on the PHP Classes website.
+
 This package is a variant of [original](https://github.com/ascoos/phpclasses_latest) for use outside Ascoos Cms.
+
+You can easily embed it into any code as long as you follow the instructions mentioned below in the details.
+
+Unfortunately, the configuration has to be done manually, unless you create code that makes it more organized and automatic, as is the case when we create modules for cms.
+
 
 ## Installation
 
@@ -8,7 +17,7 @@ Install the package in any folder within your Web page, as long as you include t
 
 ```
     <div class="efp-template">
-        <?php require_once([PATH]/'latest-phpclasses-packages.php'); ?>
+        <?php require_once([PATH]/'phpclasses-feed.php'); ?>
     </div>
 ```
 
@@ -42,4 +51,4 @@ Now you can run it either through another cms, or as a standalone one, like the 
 
 --- 
 
-An online demo can be viewed [HERE](https://demo.ascoos.com/tests/latest-phpclasses-packages/)
+An online demo can be viewed [HERE](https://demo.ascoos.com/tests/phpclasses-feed/)

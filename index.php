@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="efp-template">
-        <?php require_once('latest-phpclasses-packages.php'); ?>
+        <?php require_once('phpclasses-feed.php'); ?>
     </div>
 </body>
 </html>

@@ -1,4 +1,4 @@
-.block-latest-phpclasses-packages-cleargray {
+.block-phpclasses-feed-cleargray {
 	position:relative;
 	display:block;
 	margin:0 0 5px 0;
@@ -15,7 +15,7 @@
 	-moz-user-select:none;
 	-webkit-user-select:none;
 }
-.block-latest-phpclasses-packages-cleargray .header {
+.block-phpclasses-feed-cleargray .header {
 	position:relative;
 	display:block;
 	overflow:hidden;
@@ -29,7 +29,7 @@
 	-moz-border-radius: 6px 6px 0 0;
 	-webkit-border-radius: 6px 6px 0 0;
 }
-.block-latest-phpclasses-packages-cleargray .header h3 {
+.block-phpclasses-feed-cleargray .header h3 {
 	position:relative;
 	line-height:20px;
 	vertical-align:middle;
@@ -37,7 +37,7 @@
 	color: #033;
 	text-shadow:1px 1px 1px #EEE;
 }
-.block-latest-phpclasses-packages-cleargray themes {
+.block-phpclasses-feed-cleargray themes {
 	position:relative;
 	padding: 5px;
 	margin-bottom:10px;
@@ -51,7 +51,7 @@
 	-moz-box-shadow:0 0 5px rgba(82,168,236,.5);
 	-webkit-box-shadow:0 0 5px rgba(82,168,236,.5);	
 }
-.block-latest-phpclasses-packages-cleargray .text {
+.block-phpclasses-feed-cleargray .text {
 	position:relative;
 	margin:0;
 	padding:5px;
@@ -59,13 +59,13 @@
 	font-family: "Lucida Grande","Trebuchet MS",Arial,Helvetica,sans-serif,Verdana;
 	font-size:13px;
 }
-.block-latest-phpclasses-packages-cleargray .text .table {position:relative; display:table; margin:0; padding:0; width:100%;}
-.block-latest-phpclasses-packages-cleargray .text .row {position:relative; display:table-row; margin:0; padding:2px; }
-.block-latest-phpclasses-packages-cleargray .text .row:nth-child(odd) {background-color:#f5f5f5;}
-.block-latest-phpclasses-packages-cleargray .text .row:nth-child(even) { background-color:#fff; }
-.block-latest-phpclasses-packages-cleargray .text .cell {position:relative; display:table-cell; vertical-align:middle; text-align:left; padding:4px 2px; border-bottom:#ccc dashed 1px; color:#555;}
-.block-latest-phpclasses-packages-cleargray .text .cell a {color:#777; text-decoration:none; text-shadow:1px 1px 1px #eee;}
-.block-latest-phpclasses-packages-cleargray .text .cell a:hover {color:#555; text-decoration:none; text-shadow:1px 1px 1px #aaa;}
-.block-latest-phpclasses-packages-cleargray .text .right {padding:2px 2px 2px 6px; text-align:right;}
-.block-latest-phpclasses-packages-cleargray .more {margin-top:5px; padding:5px; text-align:right; color:#555; font-weight: 900;}
-.block-latest-phpclasses-packages-cleargray .more a {color:#555; font-weight: 900;}
+.block-phpclasses-feed-cleargray .text .table {position:relative; display:table; margin:0; padding:0; width:100%;}
+.block-phpclasses-feed-cleargray .text .row {position:relative; display:table-row; margin:0; padding:2px; }
+.block-phpclasses-feed-cleargray .text .row:nth-child(odd) {background-color:#f5f5f5;}
+.block-phpclasses-feed-cleargray .text .row:nth-child(even) { background-color:#fff; }
+.block-phpclasses-feed-cleargray .text .cell {position:relative; display:table-cell; vertical-align:middle; text-align:left; padding:4px 2px; border-bottom:#ccc dashed 1px; color:#555;}
+.block-phpclasses-feed-cleargray .text .cell a {color:#777; text-decoration:none; text-shadow:1px 1px 1px #eee;}
+.block-phpclasses-feed-cleargray .text .cell a:hover {color:#555; text-decoration:none; text-shadow:1px 1px 1px #aaa;}
+.block-phpclasses-feed-cleargray .text .right {padding:2px 2px 2px 6px; text-align:right;}
+.block-phpclasses-feed-cleargray .more {margin-top:5px; padding:5px; text-align:right; color:#555; font-weight: 900;}
+.block-phpclasses-feed-cleargray .more a {color:#555; font-weight: 900;}

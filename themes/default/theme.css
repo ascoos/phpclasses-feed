@@ -1,4 +1,4 @@
-.block-phpclasses-latest-default {
+.block-phpclasses-feed-default {
 	position:relative;
 	display:block;
 	margin:0 0 5px 0;
@@ -23,7 +23,7 @@
 	-moz-user-select:none;
 	-webkit-user-select:none;
 }
-.block-phpclasses-latest-default .header {
+.block-phpclasses-feed-default .header {
 	position:relative;
 	display:block;
 	overflow:hidden;
@@ -35,7 +35,7 @@
 	-moz-border-radius: 6px 6px 0 0;
 	-webkit-border-radius: 6px 6px 0 0;
 }
-.block-phpclasses-latest-default .header h3 {
+.block-phpclasses-feed-default .header h3 {
 	position:relative;
 	line-height:20px;
 	vertical-align:middle;
@@ -43,7 +43,7 @@
 	color: #069;
 	text-shadow:1px 1px 1px #09F;
 }
-.block-phpclasses-latest-default .text {
+.block-phpclasses-feed-default .text {
 	position:relative;
 	margin:0;
 	padding:5px;
@@ -51,12 +51,12 @@
 	font-family: "Lucida Grande","Trebuchet MS",Arial,Helvetica,sans-serif,Verdana;
 	font-size:13px;
 }
-.block-phpclasses-latest-default .text .table {position:relative; display:table; margin:0; padding:0; width:100%}
-.block-phpclasses-latest-default .text .row {position:relative; display:table-row; margin:0; padding:2px; }
-.block-phpclasses-latest-default .text .row:nth-child(odd) {background-color:#DDF0F0;}
-.block-phpclasses-latest-default .text .row:nth-child(even) {background-color:#F0F9F9; }
-.block-phpclasses-latest-default .text .cell {position:relative; display:table-cell; vertical-align:middle; text-align:left; padding:4px 2px; border-bottom:#ccc dashed 1px; color: #069;}
-.block-phpclasses-latest-default .text .cell a {color: #069; text-decoration:none; text-shadow:1px 1px 1px #eee;}
-.block-phpclasses-latest-default .text .cell a:hover {color:#036; text-decoration:none; text-shadow:1px 1px 1px #aaa;}
-.block-phpclasses-latest-default .text .right {padding:2px 2px 2px 6px; text-align:right;}
-.block-phpclasses-latest-default .more {margin-top:5px; padding:5px; text-align:right;}
+.block-phpclasses-feed-default .text .table {position:relative; display:table; margin:0; padding:0; width:100%}
+.block-phpclasses-feed-default .text .row {position:relative; display:table-row; margin:0; padding:2px; }
+.block-phpclasses-feed-default .text .row:nth-child(odd) {background-color:#DDF0F0;}
+.block-phpclasses-feed-default .text .row:nth-child(even) {background-color:#F0F9F9; }
+.block-phpclasses-feed-default .text .cell {position:relative; display:table-cell; vertical-align:middle; text-align:left; padding:4px 2px; border-bottom:#ccc dashed 1px; color: #069;}
+.block-phpclasses-feed-default .text .cell a {color: #069; text-decoration:none; text-shadow:1px 1px 1px #eee;}
+.block-phpclasses-feed-default .text .cell a:hover {color:#036; text-decoration:none; text-shadow:1px 1px 1px #aaa;}
+.block-phpclasses-feed-default .text .right {padding:2px 2px 2px 6px; text-align:right;}
+.block-phpclasses-feed-default .more {margin-top:5px; padding:5px; text-align:right;}
